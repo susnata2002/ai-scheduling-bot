@@ -1,0 +1,4 @@
+scheduling.db
+__pycache__/
+*.pyc
+venv/ # If you use a virtual environment
